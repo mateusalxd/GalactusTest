@@ -1,0 +1,67 @@
+{
+    "offset": 0,
+    "length": 10,
+    "total_count": 5,
+    "results": [
+        {
+            "event_id": "62ccaf4de0891d2ed576830a",
+            "log_id": "62ccaf4d43bf43f0b487cdf3",
+            "date": "2022-07-01T11:49:25 +03:00",
+            "source": "veniam tempor",
+            "env": "production",
+            "session_id": "62ccaf4d4ba4bb0e4b7ec181",
+            "session_key": "K1",
+            "session_value": "{\"var1\": \"Ea Lorem ex officia incididunt consectetur exercitation exercitation eu esse enim ea sint labore mollit.\",\"var2\": \"id\",\"var3\": 5}",
+            "user_question": "anim duis culpa duis occaecat elit tempor consectetur minim aliqua",
+            "id_content": 31753409
+        },
+        {
+            "event_id": "62ccaf4d7bf97f8e49adf55a",
+            "log_id": "62ccaf4d979e80f04f5ea31a",
+            "date": "2022-07-11T04:50:17 +03:00",
+            "source": "qui consequat",
+            "env": "production",
+            "session_id": "62ccaf4d1f855345f77efe02",
+            "session_key": "K1",
+            "session_value": "{\"var1\": \"Non nisi excepteur quis deserunt aliquip commodo quis fugiat ex minim occaecat fugiat.\",\"var2\": \"id\",\"var3\": 4}",
+            "user_question": "ad laboris incididunt consectetur esse eiusmod non dolore ad excepteur",
+            "id_content": 97933894
+        },
+        {
+            "event_id": "62ccaf4db80d4663d3bcb9e2",
+            "log_id": "62ccaf4dbbc3298af072ce33",
+            "date": "2022-07-04T11:30:41 +03:00",
+            "source": "minim reprehenderit",
+            "env": "production",
+            "session_id": "62ccaf4daf39604396bd533a",
+            "session_key": "K2",
+            "session_value": "{\"list1\": [8, 5]\"name\": \"Daugherty\", }",
+            "user_question": "adipisicing in deserunt ullamco tempor in voluptate mollit elit commodo",
+            "id_content": 38134719
+        },
+        {
+            "event_id": "62ccaf4d98a27997c8bbe98d",
+            "log_id": "62ccaf4dc967f858d3207734",
+            "date": "2022-07-08T11:23:41 +03:00",
+            "source": "est ullamco",
+            "env": "production",
+            "session_id": "62ccaf4db08773c94381aa50",
+            "session_key": "K1",
+            "session_value": "{\"var1\": \"Tempor est aliqua nostrud mollit sit laboris est nisi consequat dolore fugiat.\",\"var2\": \"reprehenderit\",\"var3\": 2}",
+            "user_question": "est ea eu dolor amet ut aute ut nostrud qui",
+            "id_content": 11880952
+        },
+        {
+            "event_id": "62ccaf4d925ff6a09f0969c2",
+            "log_id": "62ccaf4df3a47fff42821f5f",
+            "date": "2022-07-04T04:47:34 +03:00",
+            "source": "est nostrud",
+            "env": "production",
+            "session_id": "62ccaf4d142535228cbd0a3e",
+            "session_key": "K2",
+            "session_value": "{\"list1\": [6, 4]\"name\": \"Carlson\", }",
+            "user_question": "ut aute tempor deserunt est cupidatat nulla incididunt velit reprehenderit",
+            "id_content": 34029728
+        }
+    ]
+}
