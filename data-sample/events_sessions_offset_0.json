@@ -35,7 +35,7 @@
             "env": "production",
             "session_id": "62ccaf4daf39604396bd533a",
             "session_key": "K2",
-            "session_value": "{\"list1\": [8, 5]\"name\": \"Daugherty\", }",
+            "session_value": "{\"list1\": [8, 5],\"name\": \"Daugherty\"}",
             "user_question": "adipisicing in deserunt ullamco tempor in voluptate mollit elit commodo",
             "id_content": 38134719
         },
@@ -59,7 +59,7 @@
             "env": "production",
             "session_id": "62ccaf4d142535228cbd0a3e",
             "session_key": "K2",
-            "session_value": "{\"list1\": [6, 4]\"name\": \"Carlson\", }",
+            "session_value": "{\"list1\": [6, 4],\"name\": \"Carlson\"}",
             "user_question": "ut aute tempor deserunt est cupidatat nulla incididunt velit reprehenderit",
             "id_content": 34029728
         }

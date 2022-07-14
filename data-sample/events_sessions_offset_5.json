@@ -11,7 +11,7 @@
             "env": "production",
             "session_id": "62ccaf9b67c3f14b440dec5f",
             "session_key": "K2",
-            "session_value": "{\"list1\": [12, 2]\"name\": \"Haynes\", }",
+            "session_value": "{\"list1\": [12, 2],\"name\": \"Haynes\"}",
             "user_question": "excepteur ex aliquip culpa nostrud Lorem eiusmod elit dolore incididunt",
             "id_content": 27155775
         },
@@ -23,7 +23,7 @@
             "env": "production",
             "session_id": "62ccaf9b962111ab260d2bac",
             "session_key": "K2",
-            "session_value": "{\"list1\": [4, 1]\"name\": \"Lowe\", }",
+            "session_value": "{\"list1\": [4, 1],\"name\": \"Lowe\"}",
             "user_question": "tempor sunt occaecat voluptate quis qui adipisicing aute nostrud sit",
             "id_content": 45977809
         },

@@ -20,8 +20,8 @@ https://json-generator.com/
           '}'
       else if (this.session_key == 'K2')
         return '{' + 
-          '\"list1\": [' + tags.integer(1, 15) + ', ' + tags.integer(1, 5) + ']' +
-          '\"name\": \"' + tags.surname() + '\", ' +
+          '\"list1\": [' + tags.integer(1, 15) + ', ' + tags.integer(1, 5) + '],' +
+          '\"name\": \"' + tags.surname() + '\"' +
           '}'
       else
         return tags.lorem(1, 'paragraphs')

@@ -1,0 +1,7 @@
+camel:
+  component:
+    kafka:
+      group-id: inbenta-consumer-group
+      brokers: localhost:9092
+  springboot:
+    main-run-controller: true
